@@ -14,6 +14,7 @@ Before compiling, ensure you have the following installed:
 * **w64devkit (MinGW-w64)**: The 64-bit compiler included with the raylib installer.
 
 ## Compilation and Setup
+Type the following commands on your Command Prompt OR Terminal once the Pre-requisites are installed and set up.
 * To ensure the 64-bit compiler is used and to avoid architecture conflicts:
 ```cmd
 set PATH=C:\raylib\w64devkit\bin;%PATH%
