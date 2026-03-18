@@ -2,7 +2,7 @@
 GUI based two-player Tic Tac Toe written in C++ using Raylib.
 
 ## Features
-* Button class that can be used to create a costum menu.
+* Button class that can be used to create a custom menu.
 * GUI Based.
 * Automated win/draw detection.
 * Game restarts after each round.
