@@ -15,6 +15,12 @@ Before compiling, ensure you have the following installed:
 
 ## Compilation and Setup
 Type the following commands on your Command Prompt OR Terminal once the Pre-requisites are installed and set up.
+
+* Clone the repository
+```cmd
+git clone https://github.com/asqtecki/Tic-Tac-Toe-Extended.git
+```
+
 * To ensure the 64-bit compiler is used and to avoid architecture conflicts:
 ```cmd
 set PATH=C:\raylib\w64devkit\bin;%PATH%
