@@ -16,9 +16,13 @@ Before compiling, ensure you have the following installed:
 ## Compilation and Setup
 Type the following commands on your Command Prompt OR Terminal once the Pre-requisites are installed and set up.
 
-* Clone the repository
+* Clone the repository:
 ```cmd
 git clone https://github.com/asqtecki/Tic-Tac-Toe-Extended.git
+```
+* Navigate to the folder (Say Desktop/Tic-Tac-Toe-Extended):
+```cmd
+cd Desktop/Tic-Tac-Toe-Extended
 ```
 
 * To ensure the 64-bit compiler is used and to avoid architecture conflicts:
